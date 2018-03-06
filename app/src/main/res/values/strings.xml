@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">android-mvvm-sample</string>
+
+    <string name="user_info_activity">UserInfoActivity</string>
 </resources>
